@@ -1,0 +1,5 @@
+../Src/main.c:33:6:vLEDGAperiodicTask	16	static
+../Src/main.c:43:6:vLEDOAperiodicTask	16	static
+../Src/main.c:52:6:vLEDRAperiodicTask	16	static
+../Src/main.c:62:6:vLEDBAperiodicTask	16	static
+../Src/main.c:73:5:main	16	static
